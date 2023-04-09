@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kalyugkaravan
+- 👋 Hi, I’m @rohu
 - 👀 I’m interested in ....a.i
 - 🌱 I’m currently learning ...programming languages
 - 💞️ I’m looking to collaborate on ...hacking
